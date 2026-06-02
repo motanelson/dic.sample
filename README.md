@@ -1,1 +1,1 @@
-text view library template
+dicionary example
